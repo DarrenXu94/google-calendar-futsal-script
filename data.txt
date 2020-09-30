@@ -1,0 +1,30 @@
+1 Wednesday, 7 October 2020 6:15:00 PM Boomerangs FS Blue Boomerangs FS Youth ANU Sports Centre
+1 Wednesday, 7 October 2020 7:05:00 PM Soccer FC North Canberra Untouchables ANU Sports Centre
+1 Wednesday, 7 October 2020 7:55:00 PM Timberwolves FC Prawns ANU Sports Centre
+2 Friday, 9 October 2020 6:15:00 PM Prawns Boomerangs FS Youth Radford College
+2 Friday, 9 October 2020 7:05:00 PM Timberwolves FC North Canberra Untouchables Radford College
+2 Friday, 9 October 2020 7:55:00 PM Soccer FC Boomerangs FS Blue Radford College.
+3 Wednesday. 14 October 2020 6:15:00 PM North Canberra Untouchables Boomerangs FS Blue ANU Sports Centre
+3 Wednesday, 14 October 2020 7:05:00 PM Prawns Soccer FC ANU Sports Centre
+3 Wednesday. 14 October 2020 7:55:00 PM Timberwotves FC Boomerangs FS Youth ANU Sports Centre
+4 Friday, 16 October 2020 6:15:00 PM Boomerangs FS Youth Soccer FC Radford College
+4 Friday. 16 October 2020 7:05:00 PM Timberwolves FC Boomerangs FS Slue Radford College
+4 Friday, 16 October 2020 7:55:00 PM North Canberra Untouchables Prawns Radford College
+5 Friday, 23 October 2020 7:55:00 PM Boomerangs FS Biue Prawns Radford College
+5 Friday, 30 October 2020 7:55:00 PM Boomerangs FS Youth North Canberra Untouchables Radford College
+5 Thursday, 5 November 2020 9:10:00 PM Timberwolves FC Soccer FC Radford College
+6 Friday, 6 November 2020 8:15:00 PM Soccer FC North Canberra Untouchables Radford College
+6 Friday, 6 November 2020 7:05:00 PM Boomerangs FS Blue Boomerangs FS Youth Radford College
+6 Friday, 6 November 2020 7:55:00 PM Timberwolves FC Prawns Radford College
+7 Friday, 13 November 2020 6:15:00 PM Soccer FC Boomerangs FS Slue Radford College
+7 Friday, 13 November 2020 7:05:00 PM Prawns Boomerangs FS Youth Radford College
+7 Faday, 13 November 2020 7:55:00 PM Timberwolves FC North Canberra Untouchables Radford College
+8 Friday, 20 November 2020 6:15:00 PM Prawns Soccer FC Radford College
+8 Friday, 20 November 2020 7:05:00 PM Timberwotves FC Boomerangs FS Youth Radford College
+8 Friday, 20 November 2020 7:55:00 PM North Canberra Untouchables Boomerangs FS Blue __ Radford College
+9 Friday, 27 November 2020 6:15:00 PM North Canberra Untouchables Prawns Radford College
+9 Friday, 27 November 2020 7:05:00 PM Timberwolves FC Boomerangs FS Blue Radford College
+9 Friday, 27 November 2020 7:55:00 PM Boomerangs FS Youth Soccer FC Radford College
+10 Friday, 4 December 2020 6:15:00 PM Boomerangs FS Youth North Canberra Untouchables Radford College
+10 Friday, 4 December 2020 7:05:00 PM Boomerangs FS Blue Prawns Radford College
+10 Friday, 4 December 2020 7:55:00 PM Timberwolves FC Soccer FC Radford College
